@@ -1,0 +1,12 @@
+class Solution {
+    public long coloredCells(int n) {
+        long k=1,p=4;;
+        while(n>1)
+        {
+            k+=p;
+            p+=4;
+            n--;
+        }
+        return k;
+    }
+}
