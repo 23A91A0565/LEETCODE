@@ -14,8 +14,8 @@ class Solution {
                 }
                 else{
                     total+=lmax-height[left];
-                    left++;
                 }
+                 left++;
             }
             else{
                 if(rmax<height[right])
@@ -24,8 +24,8 @@ class Solution {
                 }
                 else{
                     total+=rmax-height[right];
-                    right--;
                 }
+                  right--;
             }
         }
         return total;
