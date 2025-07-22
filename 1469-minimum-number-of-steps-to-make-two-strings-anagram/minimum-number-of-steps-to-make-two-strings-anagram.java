@@ -1,6 +1,27 @@
 class Solution {
     public int minSteps(String s, String t) {
-        HashMap<Character, Integer> freqS = new HashMap<>();
+        int n=s.length();
+        int m=s.length();
+        int count=0;
+        int[] a=new int[26];
+        int[] b=new int[26];
+        for(int i=0;i<n;i++){
+        int index=s.charAt(i)-'a';
+        a[index]+=1;
+       }
+    
+       for(int j=0;j<m;j++){
+        int index2=t.charAt(j)-'a';
+        b[index2]+=1;
+       }
+      for(int i=0;i<26;i++){
+        count+=Math.abs(a[i]-b[i]);
+      }
+      return count/2;
+
+      // [ OR ]
+       
+       /* HashMap<Character, Integer> freqS = new HashMap<>();
         HashMap<Character, Integer> freqT = new HashMap<>();
 
         for (char ch : s.toCharArray()) {
@@ -18,6 +39,6 @@ class Solution {
             steps += Math.abs(countS - countT);
         }
 
-        return steps / 2;
+        return steps / 2;*/
     }
 }
