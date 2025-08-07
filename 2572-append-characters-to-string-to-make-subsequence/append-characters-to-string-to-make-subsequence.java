@@ -1,14 +1,23 @@
 class Solution {
     public int appendCharacters(String s, String t) {
-        int i=0,j=0;
-        while(i<s.length() && j<t.length())
+        int i=0,j=0,match=0;
+
+        while(i<t.length() && j<s.length())
         {
-            if(s.charAt(i)==t.charAt(j))
+            if(t.charAt(i)==s.charAt(j))
             {
-                j++;
+                match+=1;
+                i++;
             }
-            i++;
+            j++;
         }
-        return t.length()-j;
+        if(match==t.length())
+        {
+            return 0;
+        }
+        else
+        {
+            return t.length()-match;
+        }
     }
 }
