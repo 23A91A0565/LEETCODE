@@ -1,21 +1,27 @@
 class Solution {
     public int[] vowelStrings(String[] words, int[][] queries) {
-        int pre[] = new int[words.length];
-        int ans[] = new int[queries.length];
-        int p = 0;
-        for (int i = 0; i < words.length; i++) {
-            String w = words[i].toLowerCase();
-            if ((w.startsWith("a") || w.startsWith("e") || w.startsWith("i") || w.startsWith("o") || w.startsWith("u"))
-                && (w.endsWith("a") || w.endsWith("e") || w.endsWith("i") || w.endsWith("o") || w.endsWith("u"))) {
-                p += 1;
+        HashSet<Character> vowels = new HashSet<>(Arrays.asList('a','e','i','o','u'));
+        int n = words.length;
+        int[] preVowelCount = new int[n];
+        int count = 0;
+        for(int i=0; i<words.length;i++){
+            String word = words[i];
+            if(vowels.contains(word.charAt(0)) && vowels.contains(word.charAt(word.length() - 1))){
+                count++;
             }
-            pre[i] = p; 
+            preVowelCount[i] = count;
         }
-
-        for (int i = 0; i < queries.length; i++) {
-            int s = queries[i][0];
-            int e = queries[i][1];
-            ans[i] = pre[e] - (s > 0 ? pre[s - 1] : 0);
+        int[] ans = new int[queries.length];
+        int it = 0;
+        for(int[] q : queries){
+            int st = q[0];
+            int end = q[1];
+            if(st == 0){
+                ans[it++] = preVowelCount[end];
+            }
+            else{
+                ans[it++] = preVowelCount[end] - preVowelCount[st-1];
+            }
         }
         return ans;
     }
