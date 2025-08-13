@@ -1,6 +1,21 @@
 class Solution {
     public List<String> stringSequence(String target) {
-        ArrayList<String> ans=new ArrayList<>();
+        List<String> ans = new ArrayList<>();
+        StringBuilder sb = new StringBuilder();
+
+        for (char targetChar : target.toCharArray()) {
+            sb.append('a');
+            ans.add(sb.toString());
+            for (char c = 'b'; c <= targetChar; ++c) {
+                sb.setCharAt(sb.length() - 1, c);
+                ans.add(sb.toString());
+            }
+        }
+        return ans;
+        
+        // [OR]
+
+        /* ArrayList<String> ans=new ArrayList<>();
         String s="a";
         ans.add(s);
         while(!s.equals(target)){
@@ -15,6 +30,6 @@ class Solution {
             
             ans.add(s);
         }
-        return ans;
+        return ans; */
     }
 }
