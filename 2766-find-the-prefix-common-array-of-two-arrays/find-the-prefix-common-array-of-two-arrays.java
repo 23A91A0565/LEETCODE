@@ -1,5 +1,23 @@
 class Solution {
     public int[] findThePrefixCommonArray(int[] A, int[] B) {
+        int n = A.length;
+        boolean[] seenA = new boolean[n + 1];
+        boolean[] seenB = new boolean[n + 1];
+        int[] C = new int[n];
+        int count = 0;
+
+        for (int i = 0; i < n; i++) {
+            seenA[A[i]] = true;
+            seenB[B[i]] = true;
+            if (seenB[A[i]]) count++;
+            if (seenA[B[i]] && A[i] != B[i]) count++;
+            C[i] = count;
+        }
+        return C;
+        
+
+        //  [OR]
+        /* 
         int n=A.length;
         int res[]=new int[n];
         HashMap<Integer,Integer> ans=new HashMap<>();
@@ -19,5 +37,6 @@ class Solution {
             res[i]=c;
         }
         return res;
+        */
     }
 }
