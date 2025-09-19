@@ -3,6 +3,14 @@ class Spreadsheet {
 
     public Spreadsheet(int rows) {
         ans = new HashMap<>();
+        /*
+        for (int i = 1; i <= rows; i++) {
+            for (char j = 'A'; j <= 'Z'; j++) {
+                String cell = "" + j + i; 
+                ans.put(cell, 0);
+            }
+        }
+        */
     }
 
     public void setCell(String cell, int value) {
