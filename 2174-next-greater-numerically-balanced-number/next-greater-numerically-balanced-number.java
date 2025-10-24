@@ -1,23 +1,23 @@
 class Solution {
-    public boolean isBalanced(int num) {
-        String s = String.valueOf(num);
-        int[] count = new int[10];
-        for (char c : s.toCharArray()) {
-            int d = c - '0';
-            if (d == 0) return false;
-            count[d]++;
+    public int nextBeautifulNumber(int n) {
+        for (int i = n + 1; i <= 1224444; i++) {
+            if (isBalance(i)) {
+                return i;
+            }
         }
-        for (int d = 1; d <= 9; d++) {
-            if (count[d] > 0 && count[d] != d) return false;
+        return -1;
+    }
+    private boolean isBalance(int x) {
+        int[] count = new int[10];
+        while (x > 0) {
+            count[x % 10]++;
+            x /= 10;
+        }
+        for (int d = 0; d < 10; ++d) {
+            if (count[d] > 0 && count[d] != d) {
+                return false;
+            }
         }
         return true;
-    }
-    
-    public int nextBeautifulNumber(int n) {
-        int x = n + 1;
-        while (true) {
-            if (isBalanced(x)) return x;
-            x++;
-        }
     }
 }
