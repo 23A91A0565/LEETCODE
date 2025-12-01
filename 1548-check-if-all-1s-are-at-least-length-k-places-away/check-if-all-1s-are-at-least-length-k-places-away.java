@@ -6,9 +6,7 @@ class Solution {
                 if(i-prev<=k){
                     return false;
                 }
-                else{
-                    prev=i;
-                }
+                prev=i;
             }
             else if(nums[i]==1){
                 prev=i;
