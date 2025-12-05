@@ -1,6 +1,7 @@
 class Solution {
     // For moving in all directions
     int dir[][]={{-1,0},{1,0},{0,1},{0,-1}};
+    
     public List<List<Integer>> pacificAtlantic(int[][] heights) {
         List<List<Integer>> ans=new ArrayList<>();
         if(heights==null || heights.length==0 || heights[0].length==0){
