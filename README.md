@@ -25,6 +25,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/23A91A0565/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/23A91A0565/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [1048-longest-string-chain](https://github.com/23A91A0565/LEETCODE/tree/master/1048-longest-string-chain) |
+| [1200-minimum-absolute-difference](https://github.com/23A91A0565/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/23A91A0565/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/23A91A0565/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/23A91A0565/LEETCODE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [1048-longest-string-chain](https://github.com/23A91A0565/LEETCODE/tree/master/1048-longest-string-chain) |
+| [1200-minimum-absolute-difference](https://github.com/23A91A0565/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/23A91A0565/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/23A91A0565/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/23A91A0565/LEETCODE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
