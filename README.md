@@ -89,6 +89,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/23A91A0565/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/23A91A0565/LEETCODE/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Sliding Window
 |  |
@@ -103,6 +104,7 @@
 | [0110-balanced-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/23A91A0565/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/23A91A0565/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/23A91A0565/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 | [0110-balanced-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/23A91A0565/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/23A91A0565/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/23A91A0565/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -126,4 +129,8 @@
 | [0110-balanced-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/23A91A0565/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/23A91A0565/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/23A91A0565/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
