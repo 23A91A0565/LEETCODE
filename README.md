@@ -33,6 +33,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/23A91A0565/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/23A91A0565/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/23A91A0565/LEETCODE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/23A91A0565/LEETCODE/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/23A91A0565/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
@@ -155,4 +156,8 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [3427-sum-of-variable-length-subarrays](https://github.com/23A91A0565/LEETCODE/tree/master/3427-sum-of-variable-length-subarrays) |
 <!---LeetCode Topics End-->
