@@ -67,6 +67,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/23A91A0565/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/23A91A0565/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
@@ -110,6 +111,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/23A91A0565/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/23A91A0565/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/23A91A0565/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/23A91A0565/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
@@ -132,6 +134,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/23A91A0565/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/23A91A0565/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/23A91A0565/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/23A91A0565/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
@@ -142,6 +145,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/23A91A0565/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/23A91A0565/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/23A91A0565/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -163,4 +167,8 @@
 |  |
 | ------- |
 | [3427-sum-of-variable-length-subarrays](https://github.com/23A91A0565/LEETCODE/tree/master/3427-sum-of-variable-length-subarrays) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/23A91A0565/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
