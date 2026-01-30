@@ -117,6 +117,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/23A91A0565/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/23A91A0565/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -171,4 +173,8 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/23A91A0565/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
