@@ -11,10 +11,12 @@ class Solution {
 
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
+
                 if(grid[i][j]=='1' && !visited[i][j]){
                     visited[i][j]=true;
                     c+=1;
                     q.offer(new int[]{i,j});
+
                     while(!q.isEmpty()){
                         int p[]=q.poll();
                         for(int k=0;k<4;k++){
@@ -31,6 +33,7 @@ class Solution {
                 }
             }
         }
+        
         return c;
     }
 }
