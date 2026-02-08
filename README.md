@@ -234,4 +234,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/23A91A0565/LEETCODE/tree/master/0207-course-schedule) |
+## Math
+|  |
+| ------- |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/23A91A0565/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 <!---LeetCode Topics End-->
