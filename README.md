@@ -13,6 +13,7 @@
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/23A91A0565/LEETCODE/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/23A91A0565/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/23A91A0565/LEETCODE/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
+| [3713-longest-balanced-substring-i](https://github.com/23A91A0565/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/23A91A0565/LEETCODE/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Dynamic Programming
 |  |
@@ -61,6 +62,7 @@
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/23A91A0565/LEETCODE/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/23A91A0565/LEETCODE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/23A91A0565/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3713-longest-balanced-substring-i](https://github.com/23A91A0565/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/23A91A0565/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
@@ -234,6 +236,7 @@
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/23A91A0565/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/23A91A0565/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -263,4 +266,8 @@
 |  |
 | ------- |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/23A91A0565/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/23A91A0565/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
