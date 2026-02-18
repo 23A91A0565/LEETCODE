@@ -126,6 +126,7 @@
 | [0190-reverse-bits](https://github.com/23A91A0565/LEETCODE/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/23A91A0565/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0401-binary-watch](https://github.com/23A91A0565/LEETCODE/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/23A91A0565/LEETCODE/tree/master/0693-binary-number-with-alternating-bits) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/23A91A0565/LEETCODE/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Sliding Window
 |  |
