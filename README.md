@@ -45,6 +45,7 @@
 | [1048-longest-string-chain](https://github.com/23A91A0565/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/23A91A0565/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/23A91A0565/LEETCODE/tree/master/1200-minimum-absolute-difference) |
+| [1631-path-with-minimum-effort](https://github.com/23A91A0565/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/23A91A0565/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/23A91A0565/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/23A91A0565/LEETCODE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -100,6 +101,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1631-path-with-minimum-effort](https://github.com/23A91A0565/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/23A91A0565/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
@@ -173,6 +175,7 @@
 | [0994-rotting-oranges](https://github.com/23A91A0565/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/23A91A0565/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/23A91A0565/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/23A91A0565/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -211,11 +214,13 @@
 | [0802-find-eventual-safe-states](https://github.com/23A91A0565/LEETCODE/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/23A91A0565/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/23A91A0565/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [1631-path-with-minimum-effort](https://github.com/23A91A0565/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/23A91A0565/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/23A91A0565/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1631-path-with-minimum-effort](https://github.com/23A91A0565/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -256,6 +261,7 @@
 | [0200-number-of-islands](https://github.com/23A91A0565/LEETCODE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/23A91A0565/LEETCODE/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/23A91A0565/LEETCODE/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/23A91A0565/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -273,6 +279,7 @@
 | [0994-rotting-oranges](https://github.com/23A91A0565/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/23A91A0565/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/23A91A0565/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/23A91A0565/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Topological Sort
 |  |
 | ------- |
