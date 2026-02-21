@@ -3,15 +3,19 @@ class Solution {
         int c=0;
         for(int i=left;i<=right;i++)
         {
-            String str=Integer.toString(i,2);
-            int num_ones=0;
-            for(int j=0;j<str.length();j++)
-            {
-                if(str.charAt(j)=='1')
-                {
-                    num_ones+=1;
-                }
-            }
+            int num_ones=Integer.bitCount(i);
+
+            // [or]
+            
+            //String str=Integer.toString(i,2);
+            // int num_ones=0;
+            // for(int j=0;j<str.length();j++)
+            // {
+            //     if(str.charAt(j)=='1')
+            //     {
+            //         num_ones+=1;
+            //     }
+            // }
             if(isPrime(num_ones))
             {
                 c+=1;
