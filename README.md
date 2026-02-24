@@ -162,6 +162,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/23A91A0565/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/23A91A0565/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -201,6 +202,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/23A91A0565/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/23A91A0565/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -222,6 +224,7 @@
 | [0743-network-delay-time](https://github.com/23A91A0565/LEETCODE/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/23A91A0565/LEETCODE/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/23A91A0565/LEETCODE/tree/master/1020-number-of-enclaves) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/23A91A0565/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/23A91A0565/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/23A91A0565/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search
