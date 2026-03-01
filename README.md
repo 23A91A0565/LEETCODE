@@ -307,6 +307,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/23A91A0565/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/23A91A0565/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/23A91A0565/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/23A91A0565/LEETCODE/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Matrix
 |  |
 | ------- |
