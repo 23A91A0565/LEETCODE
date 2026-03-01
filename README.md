@@ -15,6 +15,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/23A91A0565/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/23A91A0565/LEETCODE/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/23A91A0565/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/23A91A0565/LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/23A91A0565/LEETCODE/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [3713-longest-balanced-substring-i](https://github.com/23A91A0565/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/23A91A0565/LEETCODE/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/23A91A0565/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/23A91A0565/LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/23A91A0565/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Bit Manipulation
 |  |
