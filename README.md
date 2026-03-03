@@ -157,6 +157,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/23A91A0565/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/23A91A0565/LEETCODE/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/23A91A0565/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/23A91A0565/LEETCODE/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sliding Window
 |  |
 | ------- |
