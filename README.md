@@ -43,6 +43,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/23A91A0565/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/23A91A0565/LEETCODE/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/23A91A0565/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/23A91A0565/LEETCODE/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Array
 |  |
 | ------- |
@@ -363,6 +364,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/23A91A0565/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/23A91A0565/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/23A91A0565/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/23A91A0565/LEETCODE/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Counting
 |  |
 | ------- |
