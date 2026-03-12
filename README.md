@@ -35,6 +35,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/23A91A0565/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/23A91A0565/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/23A91A0565/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
+| [0894-all-possible-full-binary-trees](https://github.com/23A91A0565/LEETCODE/tree/master/0894-all-possible-full-binary-trees) |
 | [1048-longest-string-chain](https://github.com/23A91A0565/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/23A91A0565/LEETCODE/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/23A91A0565/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -200,6 +201,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/23A91A0565/LEETCODE/tree/master/0894-all-possible-full-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/23A91A0565/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/23A91A0565/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
@@ -242,6 +244,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/23A91A0565/LEETCODE/tree/master/0894-all-possible-full-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/23A91A0565/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/23A91A0565/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -393,6 +396,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/23A91A0565/LEETCODE/tree/master/0894-all-possible-full-binary-trees) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/23A91A0565/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Number Theory
 |  |
@@ -402,4 +406,8 @@
 |  |
 | ------- |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/23A91A0565/LEETCODE/tree/master/1255-maximum-score-words-formed-by-letters) |
+## Memoization
+|  |
+| ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/23A91A0565/LEETCODE/tree/master/0894-all-possible-full-binary-trees) |
 <!---LeetCode Topics End-->
