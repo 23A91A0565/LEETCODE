@@ -50,6 +50,7 @@
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/23A91A0565/LEETCODE/tree/master/0051-n-queens) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/23A91A0565/LEETCODE/tree/master/0130-surrounded-regions) |
@@ -385,6 +386,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/23A91A0565/LEETCODE/tree/master/0051-n-queens) |
 | [0401-binary-watch](https://github.com/23A91A0565/LEETCODE/tree/master/0401-binary-watch) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/23A91A0565/LEETCODE/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/23A91A0565/LEETCODE/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
