@@ -60,6 +60,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/23A91A0565/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0051-n-queens](https://github.com/23A91A0565/LEETCODE/tree/master/0051-n-queens) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -309,6 +310,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/23A91A0565/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/23A91A0565/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/23A91A0565/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/23A91A0565/LEETCODE/tree/master/0778-swim-in-rising-water) |
