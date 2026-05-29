@@ -30,6 +30,7 @@
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/23A91A0565/LEETCODE/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/23A91A0565/LEETCODE/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/23A91A0565/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/23A91A0565/LEETCODE/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/23A91A0565/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/23A91A0565/LEETCODE/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Dynamic Programming
@@ -113,6 +114,7 @@
 | [1980-find-unique-binary-string](https://github.com/23A91A0565/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/23A91A0565/LEETCODE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/23A91A0565/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/23A91A0565/LEETCODE/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/23A91A0565/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3713-longest-balanced-substring-i](https://github.com/23A91A0565/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/23A91A0565/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
