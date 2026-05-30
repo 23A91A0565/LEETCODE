@@ -92,6 +92,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/23A91A0565/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/23A91A0565/LEETCODE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/23A91A0565/LEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/23A91A0565/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/23A91A0565/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2906-construct-product-matrix](https://github.com/23A91A0565/LEETCODE/tree/master/2906-construct-product-matrix) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/23A91A0565/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -118,6 +119,7 @@
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/23A91A0565/LEETCODE/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1980-find-unique-binary-string](https://github.com/23A91A0565/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/23A91A0565/LEETCODE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2540-minimum-common-value](https://github.com/23A91A0565/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/23A91A0565/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/23A91A0565/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/23A91A0565/LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -134,6 +136,7 @@
 | [1048-longest-string-chain](https://github.com/23A91A0565/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/23A91A0565/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/23A91A0565/LEETCODE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2540-minimum-common-value](https://github.com/23A91A0565/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/23A91A0565/LEETCODE/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/23A91A0565/LEETCODE/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Sorting
@@ -318,6 +321,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/23A91A0565/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/23A91A0565/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/23A91A0565/LEETCODE/tree/master/1631-path-with-minimum-effort) |
+| [2540-minimum-common-value](https://github.com/23A91A0565/LEETCODE/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/23A91A0565/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Divide and Conquer
 |  |
