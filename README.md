@@ -110,6 +110,7 @@
 | [3427-sum-of-variable-length-subarrays](https://github.com/23A91A0565/LEETCODE/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/23A91A0565/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/23A91A0565/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/23A91A0565/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/23A91A0565/LEETCODE/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/23A91A0565/LEETCODE/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/23A91A0565/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
@@ -147,6 +148,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/23A91A0565/LEETCODE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/23A91A0565/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/23A91A0565/LEETCODE/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/23A91A0565/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/23A91A0565/LEETCODE/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Sorting
 |  |
@@ -162,6 +164,7 @@
 | [2784-check-if-array-is-good](https://github.com/23A91A0565/LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/23A91A0565/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/23A91A0565/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/23A91A0565/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/23A91A0565/LEETCODE/tree/master/3634-minimum-removals-to-balance-array) |
 ## Simulation
 |  |
@@ -214,6 +217,7 @@
 | [2126-destroying-asteroids](https://github.com/23A91A0565/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/23A91A0565/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/23A91A0565/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/23A91A0565/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -339,6 +343,7 @@
 | [1631-path-with-minimum-effort](https://github.com/23A91A0565/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [2540-minimum-common-value](https://github.com/23A91A0565/LEETCODE/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/23A91A0565/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/23A91A0565/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 |  |
 | ------- |
