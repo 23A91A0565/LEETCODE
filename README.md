@@ -40,6 +40,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/23A91A0565/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/23A91A0565/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
+| [0396-rotate-function](https://github.com/23A91A0565/LEETCODE/tree/master/0396-rotate-function) |
 | [0542-01-matrix](https://github.com/23A91A0565/LEETCODE/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/23A91A0565/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/23A91A0565/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -70,6 +71,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/23A91A0565/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/23A91A0565/LEETCODE/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/23A91A0565/LEETCODE/tree/master/0204-count-primes) |
+| [0396-rotate-function](https://github.com/23A91A0565/LEETCODE/tree/master/0396-rotate-function) |
 | [0542-01-matrix](https://github.com/23A91A0565/LEETCODE/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/23A91A0565/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/23A91A0565/LEETCODE/tree/master/0733-flood-fill) |
@@ -436,6 +438,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/23A91A0565/LEETCODE/tree/master/0204-count-primes) |
+| [0396-rotate-function](https://github.com/23A91A0565/LEETCODE/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/23A91A0565/LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/23A91A0565/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/23A91A0565/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
