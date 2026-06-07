@@ -97,6 +97,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/23A91A0565/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/23A91A0565/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/23A91A0565/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/23A91A0565/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/23A91A0565/LEETCODE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/23A91A0565/LEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/23A91A0565/LEETCODE/tree/master/2540-minimum-common-value) |
@@ -128,6 +129,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/23A91A0565/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/23A91A0565/LEETCODE/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1980-find-unique-binary-string](https://github.com/23A91A0565/LEETCODE/tree/master/1980-find-unique-binary-string) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/23A91A0565/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/23A91A0565/LEETCODE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/23A91A0565/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/23A91A0565/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -266,6 +268,7 @@
 | [0894-all-possible-full-binary-trees](https://github.com/23A91A0565/LEETCODE/tree/master/0894-all-possible-full-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/23A91A0565/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/23A91A0565/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/23A91A0565/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -309,6 +312,7 @@
 | [0894-all-possible-full-binary-trees](https://github.com/23A91A0565/LEETCODE/tree/master/0894-all-possible-full-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/23A91A0565/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/23A91A0565/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/23A91A0565/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
