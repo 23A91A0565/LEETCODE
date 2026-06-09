@@ -97,6 +97,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/23A91A0565/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/23A91A0565/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/23A91A0565/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/23A91A0565/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/23A91A0565/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/23A91A0565/LEETCODE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/23A91A0565/LEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -153,6 +154,7 @@
 | [0917-reverse-only-letters](https://github.com/23A91A0565/LEETCODE/tree/master/0917-reverse-only-letters) |
 | [1048-longest-string-chain](https://github.com/23A91A0565/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/23A91A0565/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/23A91A0565/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/23A91A0565/LEETCODE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/23A91A0565/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/23A91A0565/LEETCODE/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
@@ -184,6 +186,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/23A91A0565/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/23A91A0565/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/23A91A0565/LEETCODE/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/23A91A0565/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3379-transformed-array](https://github.com/23A91A0565/LEETCODE/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/23A91A0565/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/23A91A0565/LEETCODE/tree/master/3775-reverse-words-with-same-vowel-count) |
