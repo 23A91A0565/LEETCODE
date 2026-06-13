@@ -60,6 +60,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/23A91A0565/LEETCODE/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/23A91A0565/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/23A91A0565/LEETCODE/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/23A91A0565/LEETCODE/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Array
 |  |
 | ------- |
@@ -255,6 +256,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/23A91A0565/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/23A91A0565/LEETCODE/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/23A91A0565/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/23A91A0565/LEETCODE/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -408,6 +410,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/23A91A0565/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/23A91A0565/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/23A91A0565/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/23A91A0565/LEETCODE/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Union-Find
 |  |
 | ------- |
