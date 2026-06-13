@@ -36,6 +36,7 @@
 | [3713-longest-balanced-substring-i](https://github.com/23A91A0565/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/23A91A0565/LEETCODE/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3838-weighted-word-mapping](https://github.com/23A91A0565/LEETCODE/tree/master/3838-weighted-word-mapping) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/23A91A0565/LEETCODE/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -257,6 +258,7 @@
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/23A91A0565/LEETCODE/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/23A91A0565/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/23A91A0565/LEETCODE/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/23A91A0565/LEETCODE/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Sliding Window
 |  |
 | ------- |
@@ -411,6 +413,7 @@
 | [3713-longest-balanced-substring-i](https://github.com/23A91A0565/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/23A91A0565/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/23A91A0565/LEETCODE/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/23A91A0565/LEETCODE/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Union-Find
 |  |
 | ------- |
@@ -485,6 +488,7 @@
 | [1255-maximum-score-words-formed-by-letters](https://github.com/23A91A0565/LEETCODE/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/23A91A0565/LEETCODE/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/23A91A0565/LEETCODE/tree/master/1980-find-unique-binary-string) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/23A91A0565/LEETCODE/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Shortest Path
 |  |
 | ------- |
