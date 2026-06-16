@@ -135,6 +135,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0652-find-duplicate-subtrees](https://github.com/23A91A0565/LEETCODE/tree/master/0652-find-duplicate-subtrees) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/23A91A0565/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1048-longest-string-chain](https://github.com/23A91A0565/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/23A91A0565/LEETCODE/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -297,6 +298,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/23A91A0565/LEETCODE/tree/master/0652-find-duplicate-subtrees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/23A91A0565/LEETCODE/tree/master/0894-all-possible-full-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/23A91A0565/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -342,6 +344,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/23A91A0565/LEETCODE/tree/master/0652-find-duplicate-subtrees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/23A91A0565/LEETCODE/tree/master/0894-all-possible-full-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/23A91A0565/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -363,6 +366,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/23A91A0565/LEETCODE/tree/master/0547-number-of-provinces) |
+| [0652-find-duplicate-subtrees](https://github.com/23A91A0565/LEETCODE/tree/master/0652-find-duplicate-subtrees) |
 | [0733-flood-fill](https://github.com/23A91A0565/LEETCODE/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/23A91A0565/LEETCODE/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/23A91A0565/LEETCODE/tree/master/0778-swim-in-rising-water) |
