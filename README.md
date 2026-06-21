@@ -103,6 +103,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/23A91A0565/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/23A91A0565/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/23A91A0565/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
+| [1840-maximum-building-height](https://github.com/23A91A0565/LEETCODE/tree/master/1840-maximum-building-height) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/23A91A0565/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1980-find-unique-binary-string](https://github.com/23A91A0565/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/23A91A0565/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -186,6 +187,7 @@
 | [1200-minimum-absolute-difference](https://github.com/23A91A0565/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/23A91A0565/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1833-maximum-ice-cream-bars](https://github.com/23A91A0565/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
+| [1840-maximum-building-height](https://github.com/23A91A0565/LEETCODE/tree/master/1840-maximum-building-height) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/23A91A0565/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/23A91A0565/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/23A91A0565/LEETCODE/tree/master/2126-destroying-asteroids) |
@@ -509,6 +511,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/23A91A0565/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/23A91A0565/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/23A91A0565/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1840-maximum-building-height](https://github.com/23A91A0565/LEETCODE/tree/master/1840-maximum-building-height) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/23A91A0565/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/23A91A0565/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/23A91A0565/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
