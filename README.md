@@ -96,6 +96,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/23A91A0565/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/23A91A0565/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/23A91A0565/LEETCODE/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1288-remove-covered-intervals](https://github.com/23A91A0565/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/23A91A0565/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/23A91A0565/LEETCODE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1575-count-all-possible-routes](https://github.com/23A91A0565/LEETCODE/tree/master/1575-count-all-possible-routes) |
@@ -196,6 +197,7 @@
 | ------- |
 | [1048-longest-string-chain](https://github.com/23A91A0565/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/23A91A0565/LEETCODE/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/23A91A0565/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/23A91A0565/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1833-maximum-ice-cream-bars](https://github.com/23A91A0565/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/23A91A0565/LEETCODE/tree/master/1840-maximum-building-height) |
