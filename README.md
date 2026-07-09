@@ -118,6 +118,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/23A91A0565/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/23A91A0565/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/23A91A0565/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/23A91A0565/LEETCODE/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/23A91A0565/LEETCODE/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/23A91A0565/LEETCODE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/23A91A0565/LEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -163,6 +164,7 @@
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/23A91A0565/LEETCODE/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1980-find-unique-binary-string](https://github.com/23A91A0565/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/23A91A0565/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/23A91A0565/LEETCODE/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/23A91A0565/LEETCODE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/23A91A0565/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/23A91A0565/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -288,6 +290,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/23A91A0565/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/23A91A0565/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/23A91A0565/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/23A91A0565/LEETCODE/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/23A91A0565/LEETCODE/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/23A91A0565/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/23A91A0565/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -573,6 +576,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/23A91A0565/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/23A91A0565/LEETCODE/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/23A91A0565/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/23A91A0565/LEETCODE/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/23A91A0565/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/23A91A0565/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/23A91A0565/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
