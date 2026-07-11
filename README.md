@@ -374,6 +374,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/23A91A0565/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/23A91A0565/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/23A91A0565/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/23A91A0565/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/23A91A0565/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/23A91A0565/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
@@ -430,6 +431,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/23A91A0565/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/23A91A0565/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/23A91A0565/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/23A91A0565/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/23A91A0565/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Search
 |  |
@@ -507,6 +509,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/23A91A0565/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/23A91A0565/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/23A91A0565/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/23A91A0565/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/23A91A0565/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/23A91A0565/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
@@ -522,6 +525,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/23A91A0565/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/23A91A0565/LEETCODE/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/23A91A0565/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/23A91A0565/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/23A91A0565/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/23A91A0565/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
