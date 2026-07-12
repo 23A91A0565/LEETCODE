@@ -90,6 +90,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/23A91A0565/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/23A91A0565/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/23A91A0565/LEETCODE/tree/master/0778-swim-in-rising-water) |
+| [0846-hand-of-straights](https://github.com/23A91A0565/LEETCODE/tree/master/0846-hand-of-straights) |
 | [0994-rotting-oranges](https://github.com/23A91A0565/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/23A91A0565/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1043-partition-array-for-maximum-sum](https://github.com/23A91A0565/LEETCODE/tree/master/1043-partition-array-for-maximum-sum) |
@@ -156,6 +157,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0652-find-duplicate-subtrees](https://github.com/23A91A0565/LEETCODE/tree/master/0652-find-duplicate-subtrees) |
+| [0846-hand-of-straights](https://github.com/23A91A0565/LEETCODE/tree/master/0846-hand-of-straights) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/23A91A0565/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1048-longest-string-chain](https://github.com/23A91A0565/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/23A91A0565/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
@@ -203,6 +205,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0846-hand-of-straights](https://github.com/23A91A0565/LEETCODE/tree/master/0846-hand-of-straights) |
 | [1048-longest-string-chain](https://github.com/23A91A0565/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/23A91A0565/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/23A91A0565/LEETCODE/tree/master/1288-remove-covered-intervals) |
@@ -283,6 +286,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0846-hand-of-straights](https://github.com/23A91A0565/LEETCODE/tree/master/0846-hand-of-straights) |
 | [0991-broken-calculator](https://github.com/23A91A0565/LEETCODE/tree/master/0991-broken-calculator) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/23A91A0565/LEETCODE/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1382-balance-a-binary-search-tree](https://github.com/23A91A0565/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
