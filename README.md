@@ -350,6 +350,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/23A91A0565/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 | [0652-find-duplicate-subtrees](https://github.com/23A91A0565/LEETCODE/tree/master/0652-find-duplicate-subtrees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
+| [0814-binary-tree-pruning](https://github.com/23A91A0565/LEETCODE/tree/master/0814-binary-tree-pruning) |
 | [0894-all-possible-full-binary-trees](https://github.com/23A91A0565/LEETCODE/tree/master/0894-all-possible-full-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/23A91A0565/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/23A91A0565/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -403,6 +404,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/23A91A0565/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 | [0652-find-duplicate-subtrees](https://github.com/23A91A0565/LEETCODE/tree/master/0652-find-duplicate-subtrees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
+| [0814-binary-tree-pruning](https://github.com/23A91A0565/LEETCODE/tree/master/0814-binary-tree-pruning) |
 | [0894-all-possible-full-binary-trees](https://github.com/23A91A0565/LEETCODE/tree/master/0894-all-possible-full-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/23A91A0565/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/23A91A0565/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -430,6 +432,7 @@
 | [0743-network-delay-time](https://github.com/23A91A0565/LEETCODE/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/23A91A0565/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/23A91A0565/LEETCODE/tree/master/0802-find-eventual-safe-states) |
+| [0814-binary-tree-pruning](https://github.com/23A91A0565/LEETCODE/tree/master/0814-binary-tree-pruning) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/23A91A0565/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/23A91A0565/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/23A91A0565/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
