@@ -15,32 +15,44 @@
  */
 class Solution {
     public TreeNode pruneTree(TreeNode root) {
-        if(!check(root.left) && !check(root.right) && root.val!=1){
+        if (root == null)
             return null;
-        }
-        if(!check(root.left)){
-            root.left=null;
-        }
-        if(!check(root.right)){
-            root.right=null;
-        }
-        if(root.left!=null)
-            pruneTree(root.left);
-        if(root.right!=null)
-            pruneTree(root.right);
+
+        root.left = pruneTree(root.left);
+        root.right = pruneTree(root.right);
+
+        if (root.left == null && root.right == null && root.val == 0)
+            return null;
+
         return root;
-    }
-    public boolean check(TreeNode root){
-        if(root==null)return false;
-        if(root.val==1)return true;
-        boolean val=false;
-        if(root.left!=null){
-            val=check(root.left);
-        }
-        boolean val2=false;
-        if(root.right!=null){
-            val2=check(root.right);
-        }
-        return val||val2;
+
+                // OR
+    //     if(!check(root.left) && !check(root.right) && root.val!=1){
+    //         return null;
+    //     }
+    //     if(!check(root.left)){
+    //         root.left=null;
+    //     }
+    //     if(!check(root.right)){
+    //         root.right=null;
+    //     }
+    //     if(root.left!=null)
+    //         pruneTree(root.left);
+    //     if(root.right!=null)
+    //         pruneTree(root.right);
+    //     return root;
+    // }
+    // public boolean check(TreeNode root){
+    //     if(root==null)return false;
+    //     if(root.val==1)return true;
+    //     boolean val=false;
+    //     if(root.left!=null){
+    //         val=check(root.left);
+    //     }
+    //     boolean val2=false;
+    //     if(root.right!=null){
+    //         val2=check(root.right);
+    //     }
+    //     return val||val2;
     }
 }
