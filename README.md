@@ -56,6 +56,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/23A91A0565/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/23A91A0565/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
 | [0396-rotate-function](https://github.com/23A91A0565/LEETCODE/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/23A91A0565/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/23A91A0565/LEETCODE/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/23A91A0565/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/23A91A0565/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -89,6 +90,7 @@
 | [0200-number-of-islands](https://github.com/23A91A0565/LEETCODE/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/23A91A0565/LEETCODE/tree/master/0204-count-primes) |
 | [0396-rotate-function](https://github.com/23A91A0565/LEETCODE/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/23A91A0565/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/23A91A0565/LEETCODE/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23A91A0565/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/23A91A0565/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -599,6 +601,7 @@
 | [0070-climbing-stairs](https://github.com/23A91A0565/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/23A91A0565/LEETCODE/tree/master/0204-count-primes) |
 | [0396-rotate-function](https://github.com/23A91A0565/LEETCODE/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/23A91A0565/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23A91A0565/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/23A91A0565/LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/23A91A0565/LEETCODE/tree/master/0877-stone-game) |
@@ -656,6 +659,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/23A91A0565/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0894-all-possible-full-binary-trees](https://github.com/23A91A0565/LEETCODE/tree/master/0894-all-possible-full-binary-trees) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/23A91A0565/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/23A91A0565/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -700,5 +704,6 @@
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/23A91A0565/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/23A91A0565/LEETCODE/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
