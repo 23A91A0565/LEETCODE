@@ -90,6 +90,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/23A91A0565/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/23A91A0565/LEETCODE/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/23A91A0565/LEETCODE/tree/master/0204-count-primes) |
+| [0304-range-sum-query-2d-immutable](https://github.com/23A91A0565/LEETCODE/tree/master/0304-range-sum-query-2d-immutable) |
 | [0396-rotate-function](https://github.com/23A91A0565/LEETCODE/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/23A91A0565/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/23A91A0565/LEETCODE/tree/master/0542-01-matrix) |
@@ -498,10 +499,12 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0304-range-sum-query-2d-immutable](https://github.com/23A91A0565/LEETCODE/tree/master/0304-range-sum-query-2d-immutable) |
 | [0449-serialize-and-deserialize-bst](https://github.com/23A91A0565/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/23A91A0565/LEETCODE/tree/master/0304-range-sum-query-2d-immutable) |
 | [1732-find-the-highest-altitude](https://github.com/23A91A0565/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/23A91A0565/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/23A91A0565/LEETCODE/tree/master/2906-construct-product-matrix) |
@@ -574,6 +577,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/23A91A0565/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/23A91A0565/LEETCODE/tree/master/0200-number-of-islands) |
+| [0304-range-sum-query-2d-immutable](https://github.com/23A91A0565/LEETCODE/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/23A91A0565/LEETCODE/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/23A91A0565/LEETCODE/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/23A91A0565/LEETCODE/tree/master/0778-swim-in-rising-water) |
