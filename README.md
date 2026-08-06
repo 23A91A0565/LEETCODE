@@ -519,6 +519,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/23A91A0565/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/23A91A0565/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/23A91A0565/LEETCODE/tree/master/0304-range-sum-query-2d-immutable) |
 | [0449-serialize-and-deserialize-bst](https://github.com/23A91A0565/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
@@ -541,6 +542,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/23A91A0565/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/23A91A0565/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/23A91A0565/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/23A91A0565/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/23A91A0565/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/23A91A0565/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -722,6 +724,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/23A91A0565/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/23A91A0565/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/23A91A0565/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/23A91A0565/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Counting Sort
