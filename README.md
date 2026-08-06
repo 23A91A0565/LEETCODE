@@ -556,6 +556,7 @@
 | [0204-count-primes](https://github.com/23A91A0565/LEETCODE/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/23A91A0565/LEETCODE/tree/master/1291-sequential-digits) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/23A91A0565/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/23A91A0565/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/23A91A0565/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/23A91A0565/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/23A91A0565/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
@@ -644,6 +645,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/23A91A0565/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/23A91A0565/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/23A91A0565/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/23A91A0565/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/23A91A0565/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/23A91A0565/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/23A91A0565/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
