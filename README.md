@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/23A91A0565/LEETCODE/tree/master/0038-count-and-say) |
+| [0071-simplify-path](https://github.com/23A91A0565/LEETCODE/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/23A91A0565/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0132-palindrome-partitioning-ii](https://github.com/23A91A0565/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -542,6 +543,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/23A91A0565/LEETCODE/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/23A91A0565/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/23A91A0565/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/23A91A0565/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
