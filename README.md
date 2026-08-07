@@ -526,6 +526,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/23A91A0565/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 | [0705-design-hashset](https://github.com/23A91A0565/LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/23A91A0565/LEETCODE/tree/master/0706-design-hashmap) |
+| [0901-online-stock-span](https://github.com/23A91A0565/LEETCODE/tree/master/0901-online-stock-span) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -546,6 +547,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/23A91A0565/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/23A91A0565/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/23A91A0565/LEETCODE/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/23A91A0565/LEETCODE/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/23A91A0565/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/23A91A0565/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/23A91A0565/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -743,6 +745,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/23A91A0565/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/23A91A0565/LEETCODE/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/23A91A0565/LEETCODE/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/23A91A0565/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Game Theory
 |  |
@@ -757,4 +760,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/23A91A0565/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/23A91A0565/LEETCODE/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
