@@ -288,6 +288,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/23A91A0565/LEETCODE/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/23A91A0565/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0206-reverse-linked-list](https://github.com/23A91A0565/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/23A91A0565/LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/23A91A0565/LEETCODE/tree/master/0706-design-hashmap) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/23A91A0565/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -704,6 +705,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/23A91A0565/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/23A91A0565/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0894-all-possible-full-binary-trees](https://github.com/23A91A0565/LEETCODE/tree/master/0894-all-possible-full-binary-trees) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/23A91A0565/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
