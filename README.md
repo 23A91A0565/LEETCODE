@@ -68,6 +68,7 @@
 | [0894-all-possible-full-binary-trees](https://github.com/23A91A0565/LEETCODE/tree/master/0894-all-possible-full-binary-trees) |
 | [1043-partition-array-for-maximum-sum](https://github.com/23A91A0565/LEETCODE/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/23A91A0565/LEETCODE/tree/master/1048-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/23A91A0565/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/23A91A0565/LEETCODE/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/23A91A0565/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/23A91A0565/LEETCODE/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -115,6 +116,7 @@
 | [1048-longest-string-chain](https://github.com/23A91A0565/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/23A91A0565/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1095-find-in-mountain-array](https://github.com/23A91A0565/LEETCODE/tree/master/1095-find-in-mountain-array) |
+| [1140-stone-game-ii](https://github.com/23A91A0565/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/23A91A0565/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/23A91A0565/LEETCODE/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1260-shift-2d-grid](https://github.com/23A91A0565/LEETCODE/tree/master/1260-shift-2d-grid) |
@@ -537,6 +539,7 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/23A91A0565/LEETCODE/tree/master/0304-range-sum-query-2d-immutable) |
+| [1140-stone-game-ii](https://github.com/23A91A0565/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/23A91A0565/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/23A91A0565/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/23A91A0565/LEETCODE/tree/master/2906-construct-product-matrix) |
@@ -652,6 +655,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/23A91A0565/LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/23A91A0565/LEETCODE/tree/master/0877-stone-game) |
 | [0991-broken-calculator](https://github.com/23A91A0565/LEETCODE/tree/master/0991-broken-calculator) |
+| [1140-stone-game-ii](https://github.com/23A91A0565/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/23A91A0565/LEETCODE/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/23A91A0565/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/23A91A0565/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -762,6 +766,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/23A91A0565/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/23A91A0565/LEETCODE/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/23A91A0565/LEETCODE/tree/master/1140-stone-game-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -782,4 +787,12 @@
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/23A91A0565/LEETCODE/tree/master/1095-find-in-mountain-array) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/23A91A0565/LEETCODE/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/23A91A0565/LEETCODE/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
