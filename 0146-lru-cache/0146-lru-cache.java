@@ -9,6 +9,7 @@ class LRUCache {
             this.value=value;
         }
     }
+    
     Node head;
     Node tail;
     HashMap<Integer,Node> ans;
