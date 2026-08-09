@@ -185,6 +185,7 @@
 | [0076-minimum-window-substring](https://github.com/23A91A0565/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0146-lru-cache](https://github.com/23A91A0565/LEETCODE/tree/master/0146-lru-cache) |
 | [0652-find-duplicate-subtrees](https://github.com/23A91A0565/LEETCODE/tree/master/0652-find-duplicate-subtrees) |
 | [0705-design-hashset](https://github.com/23A91A0565/LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/23A91A0565/LEETCODE/tree/master/0706-design-hashmap) |
@@ -292,6 +293,7 @@
 | [0061-rotate-list](https://github.com/23A91A0565/LEETCODE/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/23A91A0565/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/23A91A0565/LEETCODE/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/23A91A0565/LEETCODE/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/23A91A0565/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/23A91A0565/LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/23A91A0565/LEETCODE/tree/master/0706-design-hashmap) |
@@ -314,6 +316,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/23A91A0565/LEETCODE/tree/master/0146-lru-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/23A91A0565/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
@@ -527,6 +530,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/23A91A0565/LEETCODE/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/23A91A0565/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/23A91A0565/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
