@@ -291,6 +291,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/23A91A0565/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/23A91A0565/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/23A91A0565/LEETCODE/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/23A91A0565/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/23A91A0565/LEETCODE/tree/master/0143-reorder-list) |
@@ -719,6 +720,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/23A91A0565/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/23A91A0565/LEETCODE/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/23A91A0565/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/23A91A0565/LEETCODE/tree/master/0486-predict-the-winner) |
