@@ -393,6 +393,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -448,6 +449,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -473,6 +475,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/23A91A0565/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -560,6 +563,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/23A91A0565/LEETCODE/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/23A91A0565/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/23A91A0565/LEETCODE/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/23A91A0565/LEETCODE/tree/master/0225-implement-stack-using-queues) |
