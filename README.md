@@ -409,6 +409,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/23A91A0565/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/23A91A0565/LEETCODE/tree/master/0652-find-duplicate-subtrees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/23A91A0565/LEETCODE/tree/master/0814-binary-tree-pruning) |
@@ -467,6 +468,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/23A91A0565/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/23A91A0565/LEETCODE/tree/master/0652-find-duplicate-subtrees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/23A91A0565/LEETCODE/tree/master/0814-binary-tree-pruning) |
@@ -493,6 +495,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/23A91A0565/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/23A91A0565/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0652-find-duplicate-subtrees](https://github.com/23A91A0565/LEETCODE/tree/master/0652-find-duplicate-subtrees) |
 | [0733-flood-fill](https://github.com/23A91A0565/LEETCODE/tree/master/0733-flood-fill) |
@@ -817,4 +820,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/23A91A0565/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
