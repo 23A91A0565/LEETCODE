@@ -8,6 +8,7 @@
 | [0038-count-and-say](https://github.com/23A91A0565/LEETCODE/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/23A91A0565/LEETCODE/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/23A91A0565/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/23A91A0565/LEETCODE/tree/master/0079-word-search) |
 | [0132-palindrome-partitioning-ii](https://github.com/23A91A0565/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/23A91A0565/LEETCODE/tree/master/0316-remove-duplicate-letters) |
@@ -88,6 +89,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/23A91A0565/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/23A91A0565/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/23A91A0565/LEETCODE/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/23A91A0565/LEETCODE/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/23A91A0565/LEETCODE/tree/master/0130-surrounded-regions) |
@@ -494,6 +496,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/23A91A0565/LEETCODE/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0110-balanced-binary-tree) |
@@ -653,6 +656,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/23A91A0565/LEETCODE/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/23A91A0565/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/23A91A0565/LEETCODE/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/23A91A0565/LEETCODE/tree/master/0304-range-sum-query-2d-immutable) |
@@ -723,6 +727,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/23A91A0565/LEETCODE/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/23A91A0565/LEETCODE/tree/master/0079-word-search) |
 | [0401-binary-watch](https://github.com/23A91A0565/LEETCODE/tree/master/0401-binary-watch) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/23A91A0565/LEETCODE/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/23A91A0565/LEETCODE/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
