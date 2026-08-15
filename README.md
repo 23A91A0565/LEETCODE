@@ -11,6 +11,7 @@
 | [0079-word-search](https://github.com/23A91A0565/LEETCODE/tree/master/0079-word-search) |
 | [0132-palindrome-partitioning-ii](https://github.com/23A91A0565/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/23A91A0565/LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/23A91A0565/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0449-serialize-and-deserialize-bst](https://github.com/23A91A0565/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
@@ -511,6 +512,7 @@
 | [0200-number-of-islands](https://github.com/23A91A0565/LEETCODE/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/23A91A0565/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/23A91A0565/LEETCODE/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/23A91A0565/LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -569,6 +571,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/23A91A0565/LEETCODE/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/23A91A0565/LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/23A91A0565/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/23A91A0565/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -785,6 +788,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/23A91A0565/LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/23A91A0565/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Queue
 |  |
