@@ -76,6 +76,7 @@
 | [1255-maximum-score-words-formed-by-letters](https://github.com/23A91A0565/LEETCODE/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/23A91A0565/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/23A91A0565/LEETCODE/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1563-stone-game-v](https://github.com/23A91A0565/LEETCODE/tree/master/1563-stone-game-v) |
 | [1575-count-all-possible-routes](https://github.com/23A91A0565/LEETCODE/tree/master/1575-count-all-possible-routes) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/23A91A0565/LEETCODE/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/23A91A0565/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -129,6 +130,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/23A91A0565/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/23A91A0565/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/23A91A0565/LEETCODE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1563-stone-game-v](https://github.com/23A91A0565/LEETCODE/tree/master/1563-stone-game-v) |
 | [1575-count-all-possible-routes](https://github.com/23A91A0565/LEETCODE/tree/master/1575-count-all-possible-routes) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/23A91A0565/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/23A91A0565/LEETCODE/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -705,6 +707,7 @@
 | [1140-stone-game-ii](https://github.com/23A91A0565/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/23A91A0565/LEETCODE/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/23A91A0565/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1563-stone-game-v](https://github.com/23A91A0565/LEETCODE/tree/master/1563-stone-game-v) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/23A91A0565/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/23A91A0565/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1840-maximum-building-height](https://github.com/23A91A0565/LEETCODE/tree/master/1840-maximum-building-height) |
@@ -820,6 +823,7 @@
 | [0486-predict-the-winner](https://github.com/23A91A0565/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/23A91A0565/LEETCODE/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/23A91A0565/LEETCODE/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/23A91A0565/LEETCODE/tree/master/1563-stone-game-v) |
 ## Monotonic Queue
 |  |
 | ------- |
