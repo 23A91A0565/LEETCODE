@@ -22,6 +22,7 @@
 | [0696-count-binary-substrings](https://github.com/23A91A0565/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/23A91A0565/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0917-reverse-only-letters](https://github.com/23A91A0565/LEETCODE/tree/master/0917-reverse-only-letters) |
+| [0940-distinct-subsequences-ii](https://github.com/23A91A0565/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/23A91A0565/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/23A91A0565/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/23A91A0565/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
@@ -76,6 +77,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/23A91A0565/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/23A91A0565/LEETCODE/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/23A91A0565/LEETCODE/tree/master/0894-all-possible-full-binary-trees) |
+| [0940-distinct-subsequences-ii](https://github.com/23A91A0565/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/23A91A0565/LEETCODE/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/23A91A0565/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/23A91A0565/LEETCODE/tree/master/1140-stone-game-ii) |
