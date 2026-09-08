@@ -38,6 +38,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/23A91A0565/LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/23A91A0565/LEETCODE/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/23A91A0565/LEETCODE/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1805-number-of-different-integers-in-a-string](https://github.com/23A91A0565/LEETCODE/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1844-replace-all-digits-with-characters](https://github.com/23A91A0565/LEETCODE/tree/master/1844-replace-all-digits-with-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/23A91A0565/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1927-sum-game](https://github.com/23A91A0565/LEETCODE/tree/master/1927-sum-game) |
@@ -234,6 +235,7 @@
 | [1386-cinema-seat-allocation](https://github.com/23A91A0565/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/23A91A0565/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/23A91A0565/LEETCODE/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1805-number-of-different-integers-in-a-string](https://github.com/23A91A0565/LEETCODE/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1980-find-unique-binary-string](https://github.com/23A91A0565/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/23A91A0565/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/23A91A0565/LEETCODE/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
