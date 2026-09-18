@@ -925,4 +925,16 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0572-subtree-of-another-tree) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/23A91A0565/LEETCODE/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/23A91A0565/LEETCODE/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/23A91A0565/LEETCODE/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
