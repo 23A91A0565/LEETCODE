@@ -672,6 +672,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/23A91A0565/LEETCODE/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/23A91A0565/LEETCODE/tree/master/1291-sequential-digits) |
+| [1952-three-divisors](https://github.com/23A91A0565/LEETCODE/tree/master/1952-three-divisors) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/23A91A0565/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/23A91A0565/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/23A91A0565/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -764,6 +765,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/23A91A0565/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1840-maximum-building-height](https://github.com/23A91A0565/LEETCODE/tree/master/1840-maximum-building-height) |
 | [1927-sum-game](https://github.com/23A91A0565/LEETCODE/tree/master/1927-sum-game) |
+| [1952-three-divisors](https://github.com/23A91A0565/LEETCODE/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/23A91A0565/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/23A91A0565/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/23A91A0565/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -832,6 +834,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/23A91A0565/LEETCODE/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/23A91A0565/LEETCODE/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/23A91A0565/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/23A91A0565/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bitmask
@@ -933,8 +936,13 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/23A91A0565/LEETCODE/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/23A91A0565/LEETCODE/tree/master/1952-three-divisors) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/23A91A0565/LEETCODE/tree/master/0204-count-primes) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/23A91A0565/LEETCODE/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
