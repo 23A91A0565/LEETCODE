@@ -174,6 +174,7 @@
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/23A91A0565/LEETCODE/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/23A91A0565/LEETCODE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/23A91A0565/LEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/23A91A0565/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2540-minimum-common-value](https://github.com/23A91A0565/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/23A91A0565/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/23A91A0565/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -243,6 +244,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/23A91A0565/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/23A91A0565/LEETCODE/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/23A91A0565/LEETCODE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/23A91A0565/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2540-minimum-common-value](https://github.com/23A91A0565/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/23A91A0565/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/23A91A0565/LEETCODE/tree/master/2784-check-if-array-is-good) |
@@ -767,6 +769,7 @@
 | [1927-sum-game](https://github.com/23A91A0565/LEETCODE/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/23A91A0565/LEETCODE/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/23A91A0565/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/23A91A0565/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/23A91A0565/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/23A91A0565/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/23A91A0565/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -836,6 +839,7 @@
 | [0204-count-primes](https://github.com/23A91A0565/LEETCODE/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/23A91A0565/LEETCODE/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/23A91A0565/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/23A91A0565/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/23A91A0565/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bitmask
 |  |
@@ -932,17 +936,29 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/23A91A0565/LEETCODE/tree/master/0204-count-primes) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/23A91A0565/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/23A91A0565/LEETCODE/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/23A91A0565/LEETCODE/tree/master/1952-three-divisors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/23A91A0565/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/23A91A0565/LEETCODE/tree/master/0204-count-primes) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/23A91A0565/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Prime Factorization
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/23A91A0565/LEETCODE/tree/master/1952-three-divisors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/23A91A0565/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/23A91A0565/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/23A91A0565/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
