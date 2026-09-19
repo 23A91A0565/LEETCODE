@@ -761,6 +761,7 @@
 | [1140-stone-game-ii](https://github.com/23A91A0565/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/23A91A0565/LEETCODE/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/23A91A0565/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/23A91A0565/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/23A91A0565/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/23A91A0565/LEETCODE/tree/master/1563-stone-game-v) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/23A91A0565/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -961,4 +962,8 @@
 |  |
 | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/23A91A0565/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/23A91A0565/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
