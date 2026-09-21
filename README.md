@@ -67,6 +67,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/23A91A0565/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/23A91A0565/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/23A91A0565/LEETCODE/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/23A91A0565/LEETCODE/tree/master/0115-distinct-subsequences) |
@@ -107,6 +108,7 @@
 | [0001-two-sum](https://github.com/23A91A0565/LEETCODE/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/23A91A0565/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/23A91A0565/LEETCODE/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/23A91A0565/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/23A91A0565/LEETCODE/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/23A91A0565/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/23A91A0565/LEETCODE/tree/master/0079-word-search) |
@@ -275,6 +277,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/23A91A0565/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/23A91A0565/LEETCODE/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/23A91A0565/LEETCODE/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/23A91A0565/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -663,6 +666,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/23A91A0565/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/23A91A0565/LEETCODE/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/23A91A0565/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -893,6 +897,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/23A91A0565/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/23A91A0565/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/23A91A0565/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/23A91A0565/LEETCODE/tree/master/0901-online-stock-span) |
