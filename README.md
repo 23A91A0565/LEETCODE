@@ -103,6 +103,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/23A91A0565/LEETCODE/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/23A91A0565/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/23A91A0565/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/23A91A0565/LEETCODE/tree/master/0051-n-queens) |
@@ -220,6 +221,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/23A91A0565/LEETCODE/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/23A91A0565/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/23A91A0565/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
