@@ -112,6 +112,7 @@
 | [0051-n-queens](https://github.com/23A91A0565/LEETCODE/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/23A91A0565/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/23A91A0565/LEETCODE/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/23A91A0565/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/23A91A0565/LEETCODE/tree/master/0130-surrounded-regions) |
@@ -668,6 +669,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/23A91A0565/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/23A91A0565/LEETCODE/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/23A91A0565/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/23A91A0565/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/23A91A0565/LEETCODE/tree/master/0143-reorder-list) |
@@ -898,6 +900,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/23A91A0565/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/23A91A0565/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/23A91A0565/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/23A91A0565/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/23A91A0565/LEETCODE/tree/master/0901-online-stock-span) |
@@ -918,6 +921,7 @@
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/23A91A0565/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/23A91A0565/LEETCODE/tree/master/0239-sliding-window-maximum) |
 ## Data Stream
 |  |
