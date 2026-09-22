@@ -129,6 +129,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/23A91A0565/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/23A91A0565/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/23A91A0565/LEETCODE/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/23A91A0565/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/23A91A0565/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23A91A0565/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/23A91A0565/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -237,6 +238,7 @@
 | [0146-lru-cache](https://github.com/23A91A0565/LEETCODE/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/23A91A0565/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/23A91A0565/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/23A91A0565/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/23A91A0565/LEETCODE/tree/master/0652-find-duplicate-subtrees) |
 | [0705-design-hashset](https://github.com/23A91A0565/LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/23A91A0565/LEETCODE/tree/master/0706-design-hashmap) |
@@ -656,6 +658,7 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/23A91A0565/LEETCODE/tree/master/0304-range-sum-query-2d-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/23A91A0565/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/23A91A0565/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/23A91A0565/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/23A91A0565/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
