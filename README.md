@@ -111,6 +111,7 @@
 | [0042-trapping-rain-water](https://github.com/23A91A0565/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/23A91A0565/LEETCODE/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/23A91A0565/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/23A91A0565/LEETCODE/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/23A91A0565/LEETCODE/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/23A91A0565/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/23A91A0565/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -280,6 +281,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/23A91A0565/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/23A91A0565/LEETCODE/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/23A91A0565/LEETCODE/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/23A91A0565/LEETCODE/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/23A91A0565/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/23A91A0565/LEETCODE/tree/master/0611-valid-triangle-number) |
@@ -302,6 +304,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/23A91A0565/LEETCODE/tree/master/0075-sort-colors) |
 | [0451-sort-characters-by-frequency](https://github.com/23A91A0565/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/23A91A0565/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/23A91A0565/LEETCODE/tree/master/0611-valid-triangle-number) |
@@ -994,4 +997,12 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/23A91A0565/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/23A91A0565/LEETCODE/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/23A91A0565/LEETCODE/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
