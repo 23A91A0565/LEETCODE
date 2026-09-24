@@ -137,6 +137,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/23A91A0565/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/23A91A0565/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23A91A0565/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/23A91A0565/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/23A91A0565/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0705-design-hashset](https://github.com/23A91A0565/LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/23A91A0565/LEETCODE/tree/master/0706-design-hashmap) |
@@ -482,6 +483,7 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/23A91A0565/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/23A91A0565/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/23A91A0565/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/23A91A0565/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/23A91A0565/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/23A91A0565/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
