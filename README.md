@@ -198,6 +198,7 @@
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/23A91A0565/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2540-minimum-common-value](https://github.com/23A91A0565/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/23A91A0565/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
+| [2653-sliding-subarray-beauty](https://github.com/23A91A0565/LEETCODE/tree/master/2653-sliding-subarray-beauty) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/23A91A0565/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/23A91A0565/LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/23A91A0565/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -275,6 +276,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/23A91A0565/LEETCODE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/23A91A0565/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2540-minimum-common-value](https://github.com/23A91A0565/LEETCODE/tree/master/2540-minimum-common-value) |
+| [2653-sliding-subarray-beauty](https://github.com/23A91A0565/LEETCODE/tree/master/2653-sliding-subarray-beauty) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/23A91A0565/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/23A91A0565/LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/23A91A0565/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -492,6 +494,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/23A91A0565/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/23A91A0565/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/23A91A0565/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2653-sliding-subarray-beauty](https://github.com/23A91A0565/LEETCODE/tree/master/2653-sliding-subarray-beauty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/23A91A0565/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/23A91A0565/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3634-minimum-removals-to-balance-array](https://github.com/23A91A0565/LEETCODE/tree/master/3634-minimum-removals-to-balance-array) |
