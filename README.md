@@ -215,6 +215,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/23A91A0565/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/23A91A0565/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/23A91A0565/LEETCODE/tree/master/3546-equal-sum-grid-partition-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/23A91A0565/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/23A91A0565/LEETCODE/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/23A91A0565/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/23A91A0565/LEETCODE/tree/master/3634-minimum-removals-to-balance-array) |
@@ -822,6 +823,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/23A91A0565/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/23A91A0565/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/23A91A0565/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/23A91A0565/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/23A91A0565/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/23A91A0565/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/23A91A0565/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
