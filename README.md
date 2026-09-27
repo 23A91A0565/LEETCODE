@@ -42,6 +42,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/23A91A0565/LEETCODE/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/23A91A0565/LEETCODE/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/23A91A0565/LEETCODE/tree/master/1805-number-of-different-integers-in-a-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/23A91A0565/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1844-replace-all-digits-with-characters](https://github.com/23A91A0565/LEETCODE/tree/master/1844-replace-all-digits-with-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/23A91A0565/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1927-sum-game](https://github.com/23A91A0565/LEETCODE/tree/master/1927-sum-game) |
@@ -180,6 +181,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/23A91A0565/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/23A91A0565/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/23A91A0565/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/23A91A0565/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/23A91A0565/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/23A91A0565/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/23A91A0565/LEETCODE/tree/master/1840-maximum-building-height) |
@@ -273,6 +275,7 @@
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/23A91A0565/LEETCODE/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/23A91A0565/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/23A91A0565/LEETCODE/tree/master/1805-number-of-different-integers-in-a-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/23A91A0565/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1980-find-unique-binary-string](https://github.com/23A91A0565/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/23A91A0565/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/23A91A0565/LEETCODE/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
