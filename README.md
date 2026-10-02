@@ -5,6 +5,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/23A91A0565/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/23A91A0565/LEETCODE/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/23A91A0565/LEETCODE/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/23A91A0565/LEETCODE/tree/master/0076-minimum-window-substring) |
@@ -70,6 +71,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/23A91A0565/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/23A91A0565/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/23A91A0565/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/23A91A0565/LEETCODE/tree/master/0070-climbing-stairs) |
@@ -865,6 +867,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/23A91A0565/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/23A91A0565/LEETCODE/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/23A91A0565/LEETCODE/tree/master/0079-word-search) |
 | [0401-binary-watch](https://github.com/23A91A0565/LEETCODE/tree/master/0401-binary-watch) |
@@ -1049,5 +1052,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/23A91A0565/LEETCODE/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/23A91A0565/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
