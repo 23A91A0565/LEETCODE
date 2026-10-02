@@ -5,6 +5,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/23A91A0565/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/23A91A0565/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/23A91A0565/LEETCODE/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/23A91A0565/LEETCODE/tree/master/0071-simplify-path) |
@@ -711,6 +712,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/23A91A0565/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/23A91A0565/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/23A91A0565/LEETCODE/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/23A91A0565/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
@@ -1052,6 +1054,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/23A91A0565/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/23A91A0565/LEETCODE/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/23A91A0565/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
