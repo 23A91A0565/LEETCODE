@@ -24,6 +24,7 @@
 | [0680-valid-palindrome-ii](https://github.com/23A91A0565/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/23A91A0565/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/23A91A0565/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0856-score-of-parentheses](https://github.com/23A91A0565/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/23A91A0565/LEETCODE/tree/master/0917-reverse-only-letters) |
 | [0940-distinct-subsequences-ii](https://github.com/23A91A0565/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1002-find-common-characters](https://github.com/23A91A0565/LEETCODE/tree/master/1002-find-common-characters) |
@@ -723,6 +724,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/23A91A0565/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/23A91A0565/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/23A91A0565/LEETCODE/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/23A91A0565/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/23A91A0565/LEETCODE/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/23A91A0565/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/23A91A0565/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1056,5 +1058,6 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/23A91A0565/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/23A91A0565/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/23A91A0565/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/23A91A0565/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
