@@ -29,6 +29,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/23A91A0565/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/23A91A0565/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1002-find-common-characters](https://github.com/23A91A0565/LEETCODE/tree/master/1002-find-common-characters) |
+| [1021-remove-outermost-parentheses](https://github.com/23A91A0565/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/23A91A0565/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/23A91A0565/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/23A91A0565/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
@@ -733,6 +734,7 @@
 | [0856-score-of-parentheses](https://github.com/23A91A0565/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/23A91A0565/LEETCODE/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/23A91A0565/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/23A91A0565/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/23A91A0565/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/23A91A0565/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/23A91A0565/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1067,5 +1069,6 @@
 | [0022-generate-parentheses](https://github.com/23A91A0565/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/23A91A0565/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/23A91A0565/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/23A91A0565/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/23A91A0565/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
