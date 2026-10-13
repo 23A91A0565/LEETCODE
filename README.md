@@ -166,6 +166,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/23A91A0565/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/23A91A0565/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1043-partition-array-for-maximum-sum](https://github.com/23A91A0565/LEETCODE/tree/master/1043-partition-array-for-maximum-sum) |
+| [1046-last-stone-weight](https://github.com/23A91A0565/LEETCODE/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/23A91A0565/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/23A91A0565/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1095-find-in-mountain-array](https://github.com/23A91A0565/LEETCODE/tree/master/1095-find-in-mountain-array) |
@@ -423,6 +424,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/23A91A0565/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/23A91A0565/LEETCODE/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/23A91A0565/LEETCODE/tree/master/0778-swim-in-rising-water) |
+| [1046-last-stone-weight](https://github.com/23A91A0565/LEETCODE/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/23A91A0565/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/23A91A0565/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/23A91A0565/LEETCODE/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
