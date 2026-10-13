@@ -212,6 +212,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/23A91A0565/LEETCODE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/23A91A0565/LEETCODE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2540-minimum-common-value](https://github.com/23A91A0565/LEETCODE/tree/master/2540-minimum-common-value) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/23A91A0565/LEETCODE/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2574-left-and-right-sum-differences](https://github.com/23A91A0565/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2653-sliding-subarray-beauty](https://github.com/23A91A0565/LEETCODE/tree/master/2653-sliding-subarray-beauty) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/23A91A0565/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -390,6 +391,7 @@
 | [2075-decode-the-slanted-ciphertext](https://github.com/23A91A0565/LEETCODE/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/23A91A0565/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/23A91A0565/LEETCODE/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/23A91A0565/LEETCODE/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/23A91A0565/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/23A91A0565/LEETCODE/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/23A91A0565/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
@@ -428,6 +430,7 @@
 | [1631-path-with-minimum-effort](https://github.com/23A91A0565/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/23A91A0565/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/23A91A0565/LEETCODE/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/23A91A0565/LEETCODE/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/23A91A0565/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/23A91A0565/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/23A91A0565/LEETCODE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
