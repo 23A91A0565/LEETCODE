@@ -490,6 +490,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/23A91A0565/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/23A91A0565/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/23A91A0565/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/23A91A0565/LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/23A91A0565/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
@@ -880,6 +881,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/23A91A0565/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/23A91A0565/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/23A91A0565/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/23A91A0565/LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/23A91A0565/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/23A91A0565/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/23A91A0565/LEETCODE/tree/master/3857-minimum-cost-to-split-into-ones) |
