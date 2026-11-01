@@ -145,6 +145,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/23A91A0565/LEETCODE/tree/master/0304-range-sum-query-2d-immutable) |
 | [0396-rotate-function](https://github.com/23A91A0565/LEETCODE/tree/master/0396-rotate-function) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/23A91A0565/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/23A91A0565/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/23A91A0565/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/23A91A0565/LEETCODE/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/23A91A0565/LEETCODE/tree/master/0542-01-matrix) |
@@ -854,6 +855,7 @@
 | [0070-climbing-stairs](https://github.com/23A91A0565/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/23A91A0565/LEETCODE/tree/master/0204-count-primes) |
 | [0396-rotate-function](https://github.com/23A91A0565/LEETCODE/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/23A91A0565/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/23A91A0565/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23A91A0565/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/23A91A0565/LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
